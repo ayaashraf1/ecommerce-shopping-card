@@ -23,9 +23,9 @@ A simple web application for browsing products with a header, footer, and a menu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple-product-app.git
+   git clone https://github.com/ayaashraf1/ecommerce-shopping-card.git
 
-   npm install
+   npm install --legacy-peer-deps
    npm run start
    npm run test
    ```
